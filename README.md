@@ -1,4 +1,4 @@
-# AI-Project
+# AI-Project  GROUP - 7
 
 **Team Members:**
 
